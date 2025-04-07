@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 28,
+      "email": "alice@example.com",
+      "skills": ["Python", "Data Analysis", "Machine Learning"],
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 34,
+      "email": "bob@example.com",
+      "skills": ["Java", "Spring Boot", "Microservices"],
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 22,
+      "email": "charlie@example.com",
+      "skills": ["JavaScript", "React", "Node.js"],
+      "active": true
+    }
+  ]
+}
